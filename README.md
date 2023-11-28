@@ -1,6 +1,6 @@
 # jsonplaceholder
 
-##LOCAL: json-server
+## LOCAL: json-server
 https://github.com/typicode/json-server
 
 ## GUIDE
